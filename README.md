@@ -6,7 +6,7 @@
     -> Install MySQL Django adapter, mysqlclient
     -> Configure Settings.py
 
-###### Creating user in mysql
+###### Creating a user in mysql
     -> CREATE USER 'username@localhost' IDENTIFIED BY 'Your_Password';
 
 ###### Granting privileges to the user
